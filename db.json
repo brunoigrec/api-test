@@ -11,6 +11,10 @@
     "jp": {
       "language": "ja",
       "currency": "JPY"
+    },
+    "hr": {
+      "language": "hr",
+      "currency": "HRK"
     }
   }
 }
