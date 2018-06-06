@@ -1,6 +1,16 @@
 {
   "config": {
-    "language": "en",
-    "currency": "USD"
+    "en": {
+      "language": "en",
+      "currency": "USD"
+    },
+    "de": {
+      "language": "de",
+      "currency": "EUR"
+    },
+    "jp": {
+      "language": "ja",
+      "currency": "JPY"
+    }
   }
 }
