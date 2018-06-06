@@ -1,20 +1,52 @@
 {
   "config": {
     "en": {
-      "language": "en",
-      "currency": "USD"
+      "elements": [
+        {
+          "id": "locale-language",
+          "value": "en"
+        },
+        {
+          "id": "locale-currency",
+          "value": "USD"
+        }
+      ]
     },
     "de": {
-      "language": "de",
-      "currency": "EUR"
+      "elements": [
+        {
+          "id": "locale-language",
+          "value": "de"
+        },
+        {
+          "id": "locale-currency",
+          "value": "EUR"
+        }
+      ]
     },
     "jp": {
-      "language": "ja",
-      "currency": "JPY"
+      "elements": [
+        {
+          "id": "locale-language",
+          "value": "ja"
+        },
+        {
+          "id": "locale-currency",
+          "value": "JPY"
+        }
+      ]
     },
     "hr": {
-      "language": "hr",
-      "currency": "HRK"
+      "elements": [
+        {
+          "id": "locale-language",
+          "value": "hr"
+        },
+        {
+          "id": "locale-currency",
+          "value": "HRK"
+        }
+      ]
     }
   }
 }
