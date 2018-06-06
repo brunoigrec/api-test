@@ -1,4 +1,6 @@
 {
-  "language": "en",
-  "currency": "USD"
+  "config": {
+    "language": "en",
+    "currency": "USD"
+  }
 }
