@@ -9,6 +9,10 @@
         {
           "id": "locale-currency",
           "value": "USD"
+        },
+        {
+          "id": "locale-address",
+          "value": "line1, line2, city, state, postcode"
         }
       ]
     },
@@ -21,6 +25,10 @@
         {
           "id": "locale-currency",
           "value": "EUR"
+        },
+        {
+          "id": "locale-address",
+          "value": "line1, line2, line3, city, state, postcode"
         }
       ]
     },
@@ -33,6 +41,10 @@
         {
           "id": "locale-currency",
           "value": "JPY"
+        },
+        {
+          "id": "locale-address",
+          "value": "line1, city, state, postcode"
         }
       ]
     },
@@ -45,6 +57,10 @@
         {
           "id": "locale-currency",
           "value": "HRK"
+        },
+        {
+          "id": "locale-address",
+          "value": "line1, line2, city, state, postcode"
         }
       ]
     }
