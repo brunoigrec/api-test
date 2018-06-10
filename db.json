@@ -64,5 +64,19 @@
         }
       ]
     }
-  }
+  },
+  "elements": [
+    {
+      "id": "locale-language",
+      "value": "en"
+    },
+    {
+      "id": "locale-currency",
+      "value": "USD"
+    },
+    {
+      "id": "locale-address",
+      "value": "line1, line2, city, state, postcode"
+    }
+  ]
 }
