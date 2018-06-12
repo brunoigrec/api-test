@@ -68,15 +68,15 @@
   "elements": [
     {
       "id": "locale-language",
-      "value": "ja"
+      "value": "en"
     },
     {
       "id": "locale-currency",
-      "value": "JPY"
+      "value": "USD"
     },
     {
       "id": "locale-address",
-      "value": "line1, city, state, postcode"
+      "value": "line1, line2, city, state, postcode"
     }
   ]
 }
